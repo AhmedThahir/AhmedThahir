@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋 I'm Ahmed Thahir</h1>
+
+![Animation](animation_compressed.gif)
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
