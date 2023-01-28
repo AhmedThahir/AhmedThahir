@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Ahmed Thahir</h1>
 
-![Animation](animation_compressed.gif)
+<img width="100%" src="animation_compressed.gif" />
 
 
 # 💻 Tech Stack:
