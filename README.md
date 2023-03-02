@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋 I'm Ahmed Thahir</h1>
 
-<img width="100%" src="animation_compressed.gif" />
+<img width="50%" src="animation_compressed.gif" />
 
+Check out my engineering notes @ [ahmed-thahir-notes.netlify.app](https://ahmed-thahir-notes.netlify.app/)!
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
