@@ -2,7 +2,9 @@
 
 <img width="100%" src="animation_compressed.gif" />
 
-Check out my engineering notes @ [ahmed-thahir-notes.netlify.app](https://ahmed-thahir-notes.netlify.app/)!
+## 🔥 Hot Now!
+
+Check out my engineering notes @ [uni-notes.netlify.app](https://uni-thahir-notes.netlify.app)!
 
 ## About Myself
 
