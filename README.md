@@ -4,7 +4,7 @@
 
 ## 🔥 Hot Now!
 
-Check out my engineering notes @ [uni-notes.netlify.app](https://uni-thahir-notes.netlify.app)!
+Check out my engineering notes @ [uni-notes.netlify.app](https://uni-notes.netlify.app)!
 
 ## About Myself
 
