@@ -8,8 +8,25 @@ Check out my engineering notes @ [uni-notes.netlify.app](https://uni-notes.netli
 
 ## About Myself
 
-Computer Science Engineering student excelling in academics, research and extra-curriculars. Interested in IOT, Data Science, Machine Learning, Optimization and Econometrics. Passionate problem-solver who aspires to transform the world and loves to explore: the internet is his playground; touch-typing consistently at 80-100WPM with his own keyboard layout does have its benefits for self-learning from the web. Loves sports and anything related to it. Plays for his university basketball team; used to be a National-level basketball player and semi-professional football player at high school.
+Thahir is a Computer Science Engineer eager to continuously learn & explore the world of Business Transformation & Technology. On completing various projects and hands-on experiences at Emirates and Reckitt, skilled at business transformation with a clear focus on solutions, communication of KPI insights & storytelling with data. On completing courses on Economics, Accounting, Corporate Finance and other finance courses, he is aware of aligning technology initiatives with business objectives. 
 
-Currently working on my own keyboard layout Colemak-Im and research on Sports Analytics. Also leading a technical team at Google Developer Student Clubs. Worked at Emirates as a Data Science intern in Revenue Optimization. Helped his university's team place 3rd in Business Pitch @ Formula Student Netherlands 2022, as the Business and Marketing Lead.
+Interested in Data Science, AI, IoT, he is a passionate problem-solver who aspires to transform the world and loves to explore: the internet is his playground. He also loves sports and anything related to it.
 
-Proficient with various programming languages such as Python, MySQL, HTML/Jade, CSS/Sass, JavaScript/TypeScript, Java, C++, C, Julia, Assembly, and tools & technologies such as Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Plotly, Dash, Snowflake SQL, Google Sheets, Microsoft Excel, Power BI, Tableau. Also proficient with tools such as Microsoft Word/Powerpoint, Google Docs/Slides.
+Thahir loves making a difference to the community and especially is passionate about the social, environment and sustainability initiatives, being in the forefront of many initiatives at university.
+
+𝐑𝐞𝐜𝐞𝐧𝐭 𝐖𝐨𝐫𝐤
+He is currently working on 1) modelling India's inflation rate and 2) modelling impact of porosity on manufactured components, both with machine learning techniques. He was also co-founder and mentor Google Developer Student Club at his university. Worked at Emirates as a Data Science intern in Revenue Optimization and in R&D Digitalization at Reckitt. Helped his university's team place 3rd in Business Pitch @ Formula Student Netherlands 2022, as the Business and Marketing Lead.
+
+𝐒𝐤𝐢𝐥𝐥𝐬
+𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐓𝐨𝐨𝐥𝐬𝐞𝐭
+- Languages: Python, JavaScript, Java, C, C++
+- Databases: MySQL, SnowflakeSQL, DuckDB
+- Data Extraction: Scrapy, Selenium, Playwright, httpx
+- Data Analysis: Pandas, Polars, Excel
+- Data Visualization: Plotly, PyGWalker, Matplotlib, Seaborn
+- Dashboards: PowerBI, Dash, Streamlit
+- AI/ML: Numpy, Scipy, Sklearn, Sktime, OpenCV, Spacy, NLTK, PyTorch, TensorFlow
+- IoT: Arduino, RaspberryPi, NodeMCU
+
+𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞
+Economics, Accounting, Corporate Finance, Security Analysis
