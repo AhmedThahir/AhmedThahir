@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋 I'm Ahmed Thahir</h1>
 
-Thahir is a Computer Science Engineer focused on Business Transformation with AI, Data, and Digitalization.
+🔍 Profile Summary
+Ahmed Thahir is a highly analytical professional with two years of experience working with data and machine learning across various industries - airlines, FMCG, and e-commerce. He excels at enabling organisations to harness data for identifying patterns, estimating uncertainty, driving decisions, and deploying consumer-facing products. Thahir's consistent success is reflected in his ability to surpass targets and deliver quantifiable value to his organisations in various regional and global markets.
 
-As a fresh graduate with 1 year of hands-on experiences at Emirates, Reckitt and Bayut-Dubizzle, he has exposure to applications of AI in Revenue Optimization, FMCG, and e-commerce - highlighting his adaptability to various industries. He is skilled at business transformation with a clear focus on solutions, communication of KPI insights & storytelling with data to drive smarter decisions.
+🎓 Credentials:
+- B.E Computer Science (BITS Pilani Dubai), with a focus on Analytics, AI, and Corporate Finance
 
-Having completed courses on Economics, Corporate Finance and Portfolio Management, he aligns technology initiatives with business objectives.
+📈 Key Skills:
+With a track record of delivering data products, he excels in:
+- Data Analytics
+- Machine Learning
+- Stakeholder Management
+- Financial Modeling & Analysis
+
+💻 Key Tools:
+- Python, SQL
+- Power BI, Sisense
+- Scikit-Learn, PyTorch
+- MS Office Suite (Excel, PowerPoint, Word), Google Suite (Sheets, Slides, Docs)
