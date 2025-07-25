@@ -2,7 +2,7 @@
 
 ## 🔍 Profile
 
-Ahmed Thahir is a highly analytical professional with two years of experience working with data and machine learning across various industries - airlines, FMCG, and e-commerce. He excels at enabling organisations to harness data for identifying patterns, estimating uncertainty, driving decisions, and deploying consumer-facing products. Thahir's consistent success is reflected in his ability to surpass targets and deliver quantifiable value to his organisations in various regional and global markets.
+Ahmed Thahir is a highly analytical professional with a year and a half of experience working with Data and Machine Learning across diverse industries - airlines, FMCG, and e-commerce. He excels at enabling organisations to harness data for identifying patterns, estimating uncertainty, driving decisions, and deploying consumer-facing products. Thahir's consistent success is reflected in his ability to surpass targets in algorithmic metrics as well as business objectives, thereby delivering quantifiable value in global and regional markets. At an undergraduate level, he graduated from Computer Science with a Distinction, and was awarded the Director's Medal for his exceptional academic performance alongside super-curricular and leadership engagements.
 
 ## 🎓 Credentials
 
