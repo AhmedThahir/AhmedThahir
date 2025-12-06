@@ -4,8 +4,11 @@
 
 # 👋 Hi, I'm Thahir!
 
-I work with Data & Machine Learning. Currently working as an Associate Analyst at Delivery Hero talabat.
+I work with Data & Machine Learning to identify patterns, drive decisions and improve products.
 
-Over the last ~1.5 years, I've had the chance to contribute across airlines, FMCG, and e-commerce, building projects that help companies spot patterns, deal with uncertainty, make better decisions, and launch consumer-facing products. I love finding the balance between hitting algorithmic metrics and bigger business goals, and I've been lucky enough to do that at both global and regional levels.
+Over the last 2 years, I've worked in airlines, FMCG, and e-commerce - excelling at balancing algorithmic metrics and business objectives at global and regional markets. Currently at Delivery Hero talabat as an Associate Analyst.
 
-Along the way, I've built and deployed data products that draw from a mix of skills: data analytics, machine learning, stakeholder management, and financial modeling & analysis. The tools I'm most comfortable with are Python and SQL for core work, with Scikit-learn and PyTorch on the ML side, plus Power BI and Sisense for dashboards and insights. For collaboration and quick delivery, I make heavy use of Excel/PowerPoint/Word and the Google Suite.
+The tools I primarily work with are:
+- Analytics: Python, SQL, PowerBI, Tableau
+- ML: Scikit-learn, PyTorch
+- Excel, PowerPoint
